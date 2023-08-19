@@ -504,7 +504,6 @@ int main()
 			}
 		
 	} while (count != 1);
-	cout << endl;
 	cout << "Thanks for Playing Game...\n\n";
 	return 0;
 }
