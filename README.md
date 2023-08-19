@@ -23,4 +23,4 @@ Note: This program is a console-based implementation of the Hangman game and doe
 
 Feel free to modify the code to add more categories, words, or features according to your preferences.
 
-# Happy Coding
+## Happy Coding
